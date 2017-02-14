@@ -1,6 +1,6 @@
 {
   "name": "ndx-letsencrypt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "let's encrypt endpoint for ndx-framework",
   "main": "build/index.js",
   "scripts": {
